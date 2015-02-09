@@ -1,0 +1,5 @@
+D:\WorkSpace\IES\IES\IES\bin\Debug\IES.dll
+D:\WorkSpace\IES\IES\IES\bin\Debug\IES.pdb
+D:\WorkSpace\IES\IES\IES\obj\Debug\Connect.IES.csprojResolveAssemblyReference.cache
+D:\WorkSpace\IES\IES\IES\obj\Debug\IES.dll
+D:\WorkSpace\IES\IES\IES\obj\Debug\IES.pdb
