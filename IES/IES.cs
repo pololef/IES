@@ -75,7 +75,7 @@ namespace Connect.IES
         {
             //開始接收
             fClientListener.Start();
-            while (!fToken.IsCancellationRequested)
+            while (!fToken.Token.IsCancellationRequested)
             {
                 try
                 {
