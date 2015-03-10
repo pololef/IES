@@ -3,3 +3,7 @@ D:\WorkSpace\IES\IES\IES\bin\Debug\IES.pdb
 D:\WorkSpace\IES\IES\IES\obj\Debug\Connect.IES.csprojResolveAssemblyReference.cache
 D:\WorkSpace\IES\IES\IES\obj\Debug\IES.dll
 D:\WorkSpace\IES\IES\IES\obj\Debug\IES.pdb
+E:\workSpace\IES\IES\bin\Debug\IES.dll
+E:\workSpace\IES\IES\bin\Debug\IES.pdb
+E:\workSpace\IES\IES\obj\Debug\IES.dll
+E:\workSpace\IES\IES\obj\Debug\IES.pdb

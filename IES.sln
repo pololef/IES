@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect.IES", "IES\Connect.IES.csproj", "{5D585131-4AD3-4160-89D9-B7134EA64620}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IESTest", "..\IESTest\IESTest\IESTest.csproj", "{7D123006-0F17-4C8C-8B64-1A5405F26ACA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{5D585131-4AD3-4160-89D9-B7134EA64620}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D585131-4AD3-4160-89D9-B7134EA64620}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D585131-4AD3-4160-89D9-B7134EA64620}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7D123006-0F17-4C8C-8B64-1A5405F26ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D123006-0F17-4C8C-8B64-1A5405F26ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D123006-0F17-4C8C-8B64-1A5405F26ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D123006-0F17-4C8C-8B64-1A5405F26ACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
